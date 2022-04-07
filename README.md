@@ -1,3 +1,3 @@
 # Welcome!
 Hi! It is **wordle** for linux. I hope you enjoy this game. This is screenshot from gameplay.
-![image](https://user-images.githubusercontent.com/72090354/162288753-e9262286-333f-4380-b0e4-b2bc1c9acd9b.png)
+![image](https://user-images.githubusercontent.com/72090354/162289009-0a9b4c5a-d48a-4e24-8b0f-579c7facad71.png)
