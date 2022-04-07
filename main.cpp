@@ -12,7 +12,6 @@ void win()
 
 int main()
 {
-	//std::srand(time(NULL));
 	std::fstream dictionary;
 	dictionary.open("dictionary.txt", std::ios::in);
 	
