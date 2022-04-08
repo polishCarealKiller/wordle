@@ -5,10 +5,14 @@
 #include <stdlib.h>
 #include "Wordle.h"
 
+<<<<<<< HEAD
 void win()
 {
 	std::cout << "Wow! 🎉 Congratulate🎉 \n";
 }
+=======
+void win();
+>>>>>>> 957a942fb9b0eed302cc25e7e01b8b8cae8c651f
 
 int main()
 {
@@ -52,4 +56,10 @@ int main()
 	}
 
 	return 0;
+}
+
+
+void win()
+{
+	std::cout << "Wow! 🎉 Congratulate🎉 \n";
 }
